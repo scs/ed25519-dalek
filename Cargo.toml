@@ -40,10 +40,10 @@ default-features = false
 version = "0.2"
 
 [dev-dependencies]
-hex = "^0.3"
-sha2 = "^0.8"
-bincode = "^0.9"
-criterion = "0.2"
+#hex = "^0.3"
+#sha2 = "^0.8"
+#bincode = "^0.9"
+#criterion = "0.2"
 
 [[bench]]
 name = "ed25519_benchmarks"
